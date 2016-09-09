@@ -1,0 +1,5 @@
+127.0.0.1 - - [08/Sep/2016:21:25:31 -0300] "GET /calculo-imc HTTP/1.1" 302 - http-bio-4001-exec-1 0
+127.0.0.1 - - [08/Sep/2016:21:25:31 -0300] "GET /calculo-imc/ HTTP/1.1" 200 327 http-bio-4001-exec-3 16
+127.0.0.1 - - [08/Sep/2016:21:25:31 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-4001-exec-4 0
+127.0.0.1 - - [08/Sep/2016:21:29:48 -0300] "GET /calculo-imc/ HTTP/1.1" 200 206 http-bio-4001-exec-6 4
+127.0.0.1 - - [08/Sep/2016:21:30:45 -0300] "GET /calculo-imc/ HTTP/1.1" 200 206 http-bio-4001-exec-10 2
